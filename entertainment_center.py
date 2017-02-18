@@ -1,4 +1,4 @@
-import media
+import media.py
 import fresh_tomatoes.py
 
 # Creating film(object) John Wick.
