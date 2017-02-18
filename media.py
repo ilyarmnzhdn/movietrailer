@@ -1,17 +1,18 @@
 import webbrowser
 
-#class Video():
+# class Video():
 #    """This class provides a way to store media files title and duration"""
 #    def __init__(self, title, duration):
 #        self.title = title
 #        self.duration = duration
+
 
 class Movie():
     """This class provides a way to store movie related information"""
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
     # Constructor
-    def __init__(self, movie_title, movie_storyline, poster_image, 
+    def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
