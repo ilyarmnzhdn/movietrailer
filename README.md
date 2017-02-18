@@ -10,4 +10,4 @@ In this project I've used "webbrowser, os, re" libraries.
 # Conclusion
 During this home I've establish a foundation in core programming concepts using Python and understand the role a simple web server has in receiving a request, executing a block of code and generating a response.
 
-p.s. I written this project using Python 2.7
+p.s. I wrote this project using Python 2.7
