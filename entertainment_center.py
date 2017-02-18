@@ -1,5 +1,5 @@
 import media
-import fresh_tomatoes
+import fresh_tomatoes.py
 
 # Creating film(object) John Wick.
 john_wick = media.Movie("John Wick: Chapter 2", "After returning to the crimin"
