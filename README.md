@@ -1,4 +1,5 @@
 # MovieTrailer
+# Motivation
 This is my first project using object-oriented Python, that I've made during Udacity Full Stack Web Development Nanodegree.
 In this project I've used "webbrowser, os, re" libraries. 
 # Quick Start
